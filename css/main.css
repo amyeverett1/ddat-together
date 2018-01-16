@@ -213,6 +213,7 @@ a > i {
 
 .agenda-time .time {
     font-weight: bold;
+    font-size: 1.3em;
 }
 
 .agenda-time i {
@@ -220,8 +221,9 @@ a > i {
 }
 
 .agenda span {
-    margin-right: 20px;
+    margin: 3px 20px 3px 0;
     float: left;
+    clear: both;
 }
 
 .agenda-time .list {
