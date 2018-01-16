@@ -3,7 +3,7 @@
 </header>
 
 <div class="date">
-    <span>Tuesday 3 October 2017 <br> Alec Stewart Gate, Harleyford Road, The Kia Oval, Kennington, London SE11 5SS</span>
+    <span>Tuesday 20 February 2018 <br> The Kia Oval, Kennington, London SE11 5SS and WebEx </span>
 </div>
 
 <div class="container index"> 
@@ -20,74 +20,76 @@
     
 
     
-<div class="agenda-time">
+<!--<div class="agenda-time">
     <span class="time">09.30 – 10.30</span>
     <span>Registration</span>
     <span class="list">DDaT market stalls running during registration</span>
-</div>
+</div>-->
 
 <div class="agenda-time">
     <span class="time">10.30 – 11.00</span>
-    <span>Welcome and introduction  - Pete Rose, CDDaTO</span>
+    <span>Open and welcome</span>
+    <span>Joanna Davinson, Chief Digital, Data and Technology Officer</span>
 </div>
 
 <div class="agenda-time">
-    <span class="time">11.00 – 11.30</span>
-    <span>Keynote speaker - Jacqueline de Rojas, President techUK</span>
+    <span class="time">11.00 – 11.20</span>
+    <span>Keynote speaker</span>
+    <span>CS Reform/Digital transformation</span>
 </div>
       
 <div class="agenda-time">
-    <span class="time">11.30 – 11.40</span>
-    <span>Questions &amp; Answers – DDaT Management Team</span>
+    <span class="time">11.20 – 11.35</span>
+    <span>Break</span>
 </div>
     
 <div class="agenda-time">
-    <span class="time">11.40 – 11.55</span>
-    <span>Comfort break</span>
+    <span class="time">11.35 – 12.30</span>
+    <span>DDaT ‘Re-imagine Challenge’</span>
 </div>
           
 <div class="agenda-time">
-    <span class="time">11.55 – 12.40</span>
-    <span>Vision/Mission/Objectives/Strategy/Tactics (VMOST) - Pete Rose</span>
+    <span class="time">12.30 – 13.20</span>
+    <span>Lunch and networking</span>
 </div>
            
 <div class="agenda-time">
-    <span class="time">12.40 – 13.30</span>
-    <span>Lunch</span>
+    <span class="time">13.20 – 13.35</span>
+    <span>Afternoon session</span>
 </div>
         
 <div class="agenda-time">
-    <span class="time">13.30 – 14.00</span>
-    <span>Lightning talks – DDaT volunteers</span>
+    <span class="time">13.35 - 14.05</span>
+    <span>Lightning Talks</span>
 </div>
  
 <div class="agenda-time">
-    <span class="time">14.00 - 14.05 </span>
-    <span>Afternoon sessions: Introduction – MCs (John Holland &amp; Margaret-Mary Wilmot)</span>
+    <span class="time">14.05 - 14.45</span>
+    <span>Panel sicussion with Q&amp;A</span>
 </div>
 
 <div class="agenda-time">
-    <span class="time">14.05 - 15.10</span>
+    <span class="time">14.50 - 15.25</span>
     <span>Breakout Sessions</span>
-    <span><strong>Group 1:</strong> Keynote speaker – Tom Read, Chief Digital and Information Officer, Ministry of Justice (England Suite)</span>
-    <span><strong>Group 2:</strong> Collaboration, Convergence and Inclusion breakouts: HO Organisation Design Team (4 x breakout sessions)</span>
+    <span><strong>Group A:</strong> We Evolve zone; We Thrive zone</span>
+    <span><strong>Group B:</strong> We Innovate zone</span>
 </div>
   
 <div class="agenda-time">
-    <span class="time">15.10 – 16.15</span>
+    <span class="time">15.30 – 16.05</span>
     <span>Breakout Sessions</span>
-    <span><strong>Group 1</strong>: Collaboration, Convergence and Inclusion breakouts: HO Organisation Design Team (4 x breakout sessions)</span>
-    <span><strong>Group 2:</strong> Keynote speaker – Tom Read, Chief Digital and Information Officer, Ministry of Justice (England Suite)</span>
+    <span><strong>Group A</strong>: We Innovate zone</span>
+    <span><strong>Group B:</strong> We Evolve zone; We Thrive zone</span>
 </div> 
  
  <div class="agenda-time">
-    <span class="time">16.15 – 16.30</span>
-    <span>Conclusions and next steps – Pete Rose/Management Team/Claire Fisher/Tom Read</span>
+    <span class="time">16.10 – 16.30</span>
+    <span>Summing up and Q&amp;A with Joanna and SMT</span>
 </div>
     
  <div class="agenda-time">
     <span class="time">16.30</span>
-    <span>Summary and close - Pete Rose, CDDaTO</span>
+    <span>Close</span>
 </div>
     
 
@@ -104,7 +106,7 @@
 
          <div class="wrapper">
             <div class="box white">
-<h3><a href="https://twitter.com/JdR_Tech">Jacqueline de Rojas</a></h3>
+<!--<h3><a href="https://twitter.com/JdR_Tech">Jacqueline de Rojas</a></h3>
     
 <div class="text">
     <p>Jacqueline is the President of techUK and sits as a Non-Executive Director on the board of UK technology business Rightmove plc. Serving as a member of the government's Digital Economy Council, Jacqueline is also a mentor to boards and executives through Bird &amp; Co.</p>
@@ -126,9 +128,9 @@
         
            </div><!-- boxwhite-->
              
+        
              
-             
-               <div class="box white">
+             <!--  <div class="box white">
              
              <h3><a href="https://twitter.com/thommeread">Tom Read</a></h3>
     
