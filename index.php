@@ -124,7 +124,7 @@
             <div class="image_box">
                 <img class="image_display" src="/img/jac.jpg" alt="photograph of Jacqueline de Rojas"/>     
             </div>
-                
+                --> 
         
            </div><!-- boxwhite-->
              
