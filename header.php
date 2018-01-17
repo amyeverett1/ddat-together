@@ -5,7 +5,7 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes" />
-        <title>DDaT Together event - March 20 2017</title>
+        <title>DDaT Together event - 20 Feb 2018</title>
         <meta name="description" content="Click here to get to the main DDaT Together event site">
         <link rel="stylesheet" href="/css/main.css">
         

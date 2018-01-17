@@ -65,7 +65,7 @@
  
 <div class="agenda-time">
     <span class="time">14.05 - 14.45</span>
-    <span>Panel sicussion with Q&amp;A</span>
+    <span>Panel dicussion with Q&amp;A</span>
 </div>
 
 <div class="agenda-time">
