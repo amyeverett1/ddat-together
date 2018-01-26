@@ -17,74 +17,61 @@
     
 <div class="box white agenda">
  
-    
-
-    
-<!--<div class="agenda-time">
-    <span class="time">09.30 – 10.30</span>
-    <span>Registration</span>
-    <span class="list">DDaT market stalls running during registration</span>
-</div>-->
+<h3>DDAT Together – We Innovate, We Evolve, We Thrive: Tuesday 20 February @ Kia Oval Kennington and via WebEx</h3>
 
 <div class="agenda-time">
     <span class="time">10.30 – 11.00</span>
-    <span>Open and welcome</span>
-    <span>Joanna Davinson, Chief Digital, Data and Technology Officer</span>
-</div>
-
-<div class="agenda-time">
-    <span class="time">11.00 – 11.20</span>
-    <span>Keynote speaker</span>
-    <span>CS Reform/Digital transformation</span>
-</div>
-      
-<div class="agenda-time">
-    <span class="time">11.20 – 11.35</span>
-    <span>Break</span>
+    <span>Registration/networking</span>
 </div>
     
 <div class="agenda-time">
-    <span class="time">11.35 – 12.30</span>
-    <span>DDaT ‘Re-imagine Challenge’</span>
+    <span class="time">10.30 – 11.20</span>
+    <span>Open and welcome</span>
+    <span>Joanna Davinson, Chief Digital, Data and Technology Officer</span>
 </div>
-          
+    
 <div class="agenda-time">
-    <span class="time">12.30 – 13.20</span>
+    <span class="time">11.20-11.50</span>
+    <span>Keynote speaker</span>
+    <span>Matt Hancock, Secretary of State for Digital, Culture, Media and Sport</span>
+</div>
+      
+<div class="agenda-time">
+    <span class="time">11.50 – 12.20</span>
+    <span>Lightning talks (DDaT staff - 5 x 3 minutes)</span>
+</div>
+    
+ 
+<div class="agenda-time">
+    <span class="time">12.20 – 13.10</span>
     <span>Lunch and networking</span>
+</div>
+    
+<div class="agenda-time">
+    <span class="time">13.10 – 13.40</span>
+    <span>Afternoon session</span>
+    <span>Opened by Philip Rutnam, HO Permanent Secretary</span>
 </div>
            
 <div class="agenda-time">
-    <span class="time">13.20 – 13.35</span>
-    <span>Afternoon session</span>
+    <span class="time">13.40 – 14.30</span>
+    <span>DDaT Reimagine Challenge based on Civil Service/KPMG initiative</span>
+    <span><a href="http://www.civilservicelive.com/reimagine-challenge">http://www.civilservicelive.com/reimagine-challenge</a></span>
 </div>
-        
+            
 <div class="agenda-time">
-    <span class="time">13.35 - 14.05</span>
-    <span>Lightning Talks</span>
+    <span class="time">14.35 - 16.00</span>
+    <span>Afternoon breakouts (bookable on a first come, first served basis)</span>
+    <span><strong>Breakout A:</strong> Breakout A - Panel discussion: ‘Driving inclusion and innovation in the workplace’ chaired by Lou Horton, DDaT Business Planning and Management.</span>
+    <span>Q&amp;A (followed by refreshments and post-panel networking with panel member and SMT members)</span>
+    <span><strong>Breakout B:</strong> DDaT developments and demos tbc</span>
+    <span><strong>Breakout C:</strong> SCS spot mentoring slots: 20 min slots facilitated by SCS members</span>
 </div>
- 
-<div class="agenda-time">
-    <span class="time">14.05 - 14.45</span>
-    <span>Panel dicussion with Q&amp;A</span>
-</div>
-
-<div class="agenda-time">
-    <span class="time">14.50 - 15.25</span>
-    <span>Breakout Sessions</span>
-    <span><strong>Group A:</strong> We Evolve zone; We Thrive zone</span>
-    <span><strong>Group B:</strong> We Innovate zone</span>
-</div>
-  
-<div class="agenda-time">
-    <span class="time">15.30 – 16.05</span>
-    <span>Breakout Sessions</span>
-    <span><strong>Group A</strong>: We Innovate zone</span>
-    <span><strong>Group B:</strong> We Evolve zone; We Thrive zone</span>
-</div> 
- 
+    
  <div class="agenda-time">
-    <span class="time">16.10 – 16.30</span>
+    <span class="time">16.00 – 16.30</span>
     <span>Summing up and Q&amp;A with Joanna and SMT</span>
+    <span>DDaT Reimagine Challenge voting (using Sli.do) and results</span>
 </div>
     
  <div class="agenda-time">
