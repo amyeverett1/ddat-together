@@ -122,45 +122,11 @@ ul.sans {
 }
 
 .big-space {
-    margin-top: 2em;
+    margin-top: 2em!important;
 }
 
 .space-space {
     margin-bottom: 1.5em;
-}
-
-header .colours {
-    margin: 0 auto;
-    width: 400px;
-    margin-top: 5px;
-}
-
-header .purple {
-    height: 10px;
-    width: 25%;
-    background-color: rebeccapurple;
-    float: left;
-}
-
-header .pink {
-    height: 10px;
-    width: 25%;
-    background-color: #D53880;
-    float: left;
-}
-
-header .orange {
-    height: 10px;
-    width: 25%;
-    background-color: #F47738;
-    float: left;
-}
-
-header .green {
-    height: 10px;
-    width: 25%;
-    background-color: #85994B;
-    float: left;
 }
 
 b, strong {

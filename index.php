@@ -123,7 +123,7 @@
       <!-- Noscript content for added SEO -->
 <noscript><a href="https://www.eventbrite.co.uk/e/ddat-together-away-day-tickets-42558488585" rel="noopener noreferrer" target="_blank"></noscript>
 <!-- You can customize this button any way you like -->
-<button id="eventbrite-widget-modal-trigger-42558488585" type="button">Buy Tickets</button>
+<button id="eventbrite-widget-modal-trigger-42558488585" class="big-space" type="button">Buy Tickets</button>
 <noscript></a>Buy Tickets on Eventbrite</noscript>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
