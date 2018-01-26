@@ -387,7 +387,7 @@ form label > span {
     float: left;
 }
 
-.btTxt {
+.btTxt, #eventbrite-widget-modal-trigger-42558488585 {
     padding: 10px;
     border-radius: 5px;
     background-color: #792472;

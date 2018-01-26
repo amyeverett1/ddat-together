@@ -119,7 +119,7 @@
    
    <div class="wrapper">    
     <div class="box white">      
-        
+        <p>Please click the button below to open the ticket booking window. Alternatively click <a href="https://www.eventbrite.co.uk/e/ddat-together-away-day-tickets-42558488585">here</a> to visit Eventbrite directly. </p>
       <!-- Noscript content for added SEO -->
 <noscript><a href="https://www.eventbrite.co.uk/e/ddat-together-away-day-tickets-42558488585" rel="noopener noreferrer" target="_blank"></noscript>
 <!-- You can customize this button any way you like -->
