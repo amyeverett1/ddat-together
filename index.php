@@ -20,7 +20,7 @@
 <h3>DDAT Together – We Innovate, We Evolve, We Thrive: Tuesday 20 February @ Kia Oval Kennington and via WebEx</h3>
 
 <div class="agenda-time">
-    <span class="time">10.30 – 11.00</span>
+    <span class="time">09.30 – 10.30</span>
     <span>Registration/networking</span>
 </div>
     
@@ -62,10 +62,10 @@
 <div class="agenda-time">
     <span class="time">14.35 - 16.00</span>
     <span>Afternoon breakouts (bookable on a first come, first served basis)</span>
-    <span><strong>Breakout A:</strong> Breakout A - Panel discussion: ‘Driving inclusion and innovation in the workplace’ chaired by Lou Horton, DDaT Business Planning and Management.</span>
+    <span><strong>Breakout A:</strong> Panel discussion - ‘Driving inclusion and innovation in the workplace’ chaired by Lou Horton, DDaT Business Planning and Management.</span>
     <span>Q&amp;A (followed by refreshments and post-panel networking with panel member and SMT members)</span>
     <span><strong>Breakout B:</strong> DDaT developments and demos tbc</span>
-    <span><strong>Breakout C:</strong> SCS spot mentoring slots: 20 min slots facilitated by SCS members</span>
+    <span><strong>Breakout C:</strong> SCS spot mentoring slots - 20 min slots facilitated by SCS members</span>
 </div>
     
  <div class="agenda-time">
@@ -120,7 +120,27 @@
    <div class="wrapper">    
     <div class="box white">      
         
-        <div id="eventzilla-iframe"></div><script type='text/javascript'>window.onload = function() {var iframe = document.createElement('iframe');iframe.id="ifeventzilla";iframe.style.width = "100%";iframe.style.height = "100%";iframe.frameBorder="0";iframe.src = "https://events.eventzilla.net//widget_event?eventid=2138928651";var evntzilladiv=document.getElementById('eventzilla-iframe');evntzilladiv.appendChild(iframe);};</script>
+      <!-- Noscript content for added SEO -->
+<noscript><a href="https://www.eventbrite.co.uk/e/ddat-together-away-day-tickets-42558488585" rel="noopener noreferrer" target="_blank"></noscript>
+<!-- You can customize this button any way you like -->
+<button id="eventbrite-widget-modal-trigger-42558488585" type="button">Buy Tickets</button>
+<noscript></a>Buy Tickets on Eventbrite</noscript>
+
+<script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        widgetType: 'checkout',
+        eventId: '42558488585',
+        modal: true,
+        modalTriggerElementId: 'eventbrite-widget-modal-trigger-42558488585',
+        onOrderComplete: exampleCallback
+    });
+</script>
         
                     </div><!--boxwhite--> 
 </div><!--wrapper--> 
