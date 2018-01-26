@@ -101,53 +101,26 @@
   </div><!-- end agenda-->
     
 
-  <h3><i class="fa fa-users fa-lg" aria-hidden="true"></i> <span>Keynote Speakers</span></h3>
+  <h3><i class="fa fa-users fa-lg" aria-hidden="true"></i> <span>Keynote Speaker</span></h3>
   <div>
-
-         <div class="wrapper">
-            <div class="box white">
-<!--<h3><a href="https://twitter.com/JdR_Tech">Jacqueline de Rojas</a></h3>
+      <div class="wrapper">
+        <div class="box white">
+            <h3>Our keynote speaker for DDaT Together will be The Rt Hon Matt Hancock MP, Secretary of State for Digital, Culture, Media and Sport.</h3>
     
 <div class="text">
-    <p>Jacqueline is the President of techUK and sits as a Non-Executive Director on the board of UK technology business Rightmove plc. Serving as a member of the government's Digital Economy Council, Jacqueline is also a mentor to boards and executives through Bird &amp; Co.</p>
-
- <p>Her presidency focuses on the ambition for the UK to seize its position as a digital nation of significance by leveraging its digital opportunity and skills. She believes that to achieve this all geographies and demographics across the UK must be included and we must strive to equip our country with the very best infrastructure and supportive business legislation possible. Above all, none of the above can be achieved unless the UK tech industry demonstrates that it is open for business to global markets.</p>
-
- <p>Prior to her presidency, Jacqueline held the role of deputy president techUK and board champion for women. She has used this role to leverage resources in the technology industry to support her manifesto to increase diversity of skills and talent in the tech industry. This has gathered increasing momentum through techUK's Women in Tech Council, which continues to bring industry together to drive for inclusion, diversity &amp; gender equality.</p>
-
- <p>Jacqueline has been employed throughout her career by global blue-chip software companies to accelerate growth by pulling amazing teams together which can operate under pressure and extend their reach through smart partnerships.</p> 
-
- <p>Jacqueline was previously a Non-Executive Director at Home Retail Group plc; is currently a board advisor to Digital Leaders, Accelerate-HER and lends her support to everywoman. This year, Jacqueline was listed as one of Europe's Inspiring Fifty Role Models. In 2016 she was listed on Debretts 2016 500 Digital People of Influence and entered the @Computerweekly Hall of Fame as the most influential woman in UK IT; she was voted Computer Weekly's Most Influential Woman in UK IT in 2015. She was recently appointed as a special advisor to the Girlguiding Association for technology transformation.</p>
-          <p class="small">Content credit to <a href="http://www.techuk.org/about/our-board/item/222-jacqueline-de-rojas">tech.uk</a></p>
+    <p>Matt Hancock MP was appointed Secretary of State for Digital, Culture, Media and Sport on 8 January 2018. He was previously Minister of State for Digital from July 2016 to January 2018.</p>
+    <p>Matt Hancock is the MP for West Suffolk, having been elected in the 2010 general election. From 2010 Matt served as a backbencher on the Public Accounts Committee and the Standards &amp; Privileges Committee. Matt entered government in September 2012 and has served in a number of Ministerial Roles, including for skills and business, and as Paymaster General. He oversaw the expansion of apprenticeships, and championed the digital transformation of government.</p>
+    <p>Since July 2016 he has served at DCMS as Minister of State for Digital and is responsible for broadband, broadcasting, creative industries, cyber and the tech industry.
+    <p>Before entering politics, Matt worked for his family business, as an economist at the Bank of England, and as Chief of Staff to the Shadow Chancellor of the Exchequer. He holds degrees from Oxford and Cambridge Universities.</p>
+    <p>Matt is married to Martha and has three young children. He is the first MP in modern times to win a horse race, having raced to victory at the Newmarket July Course in August 2012. He is an avid cricketer and plays for the Lords &amp; Commons Cricket team. Matthew once played the most northerly game of cricket on record, and succumbed to frostbite en route to the Pole. He retains all his fingers.</p>
 </div>
                 
             <div class="image_box">
-                <img class="image_display" src="/img/jac.jpg" alt="photograph of Jacqueline de Rojas"/>     
+                <img class="image_display" src="/img/hancock.png" alt="photograph of Matt Hancock"/>     
             </div>
-                --> 
+            
         
            </div><!-- boxwhite-->
-             
-        
-             
-             <!--  <div class="box white">
-             
-             <h3><a href="https://twitter.com/thommeread">Tom Read</a></h3>
-    
-<div class="text">
-             <p>Tom Read is currently Chief Digital and Information Officer at Ministry of Justice. He says: My career has focused on technology as an agent of change and growth. In short, how organisations can bring digital into their core to make things better, faster and more profitable.</p>
-
-<p>I have worked across banking, media, and most recently government as a Deputy Director at the Government Digital Service and as CTO at the Cabinet Office.</p>
-
-<p>My successes so far have been built on a few key beliefs. Firstly that everything we do should start with the user: from deciding what laptop to provision to designing a digital service, the user needs to be at the centre of every decision. Secondly that people can do amazing things and will love change if you include them in every decision. Thirdly, that things don't need to be nearly this complicated in the digital and technology space: start small, iterate and use simple language to describe what you're doing. </p>
-             <p class="small">Content credit to <a href="https://www.linkedin.com/in/thommeread/">linkedin.com</a></p>
-                   </div>
-                   
-                   <div class="image_box">
-                <img class="image_display" src="/img/tom.jpg" alt="photograph of Tom Read"/>     
-            </div>
-                   
-             </div><!--box white-->
              
         </div> <!-- wrapper-->    
       
@@ -214,27 +187,35 @@
   <div>
 
 <div class="wrapper">
-   <p>This is our fourth DDaT Together event and will be hosted by Pete Rose, interim Chief Digital, Data and Technology (DDaT) Officer. Book your place to find out more about DDaT’s vision and future plans as well as hearing from Jacqueline de Rojas, the President of techUK and Tom Read, Chief Digital and Information Officer at the Ministry of Justice.</p>   
- 
-<p>This event is open to everyone in DDaT but space is limited so places will be allocated on a first-come-first-served basis. You must register via this app to secure your place to attend the event.</p>
- 
-<p>Don’t forget to bring your Home Office pass. We don’t want you to wear it but you must show it when you arrive at The Kia Oval. If you don’t bring it, you may not be able to take part for security reasons.</p>
- 
-<p>Any questions? Ask the <a href="mailto:hoddatcommunications@homeoffice.gsi.gov.uk">DDaT communications team</a> and we will reply promptly.</p>
+    <p>Joanna Davinson, Chief Digital, Data and Technology (DDaT) Officer, will host her first DDaT Together event at the Kia Oval on Tuesday 20 February at the Kia Oval.  Joanna will reflect on her first three months as CDDaTO and outline the vision and future plans for DDaT.  We are also fortunate to have The Rt Hon Matt Hancock MP, Secretary of State for Digital, Culture, Media and Sport, joining us in the morning as our keynote speaker as well as Philip Rutnam, Permanent Secretary at the Home Office, opening our afternoon session.</p>
+
+    <p>This event is open to everyone in DDaT but space is limited so places will be allocated on a first-come-first-served basis. You must register via this app to secure your place to attend the event.  For those who cannot join in person, DDaT Infrastructure &amp; Platforms will be running another WebEx pilot on the day. Please email the DDaT Communications team for further information.</p>
+
+    <p>Don’t forget to bring your Home Office pass. We don’t want you to wear it but you must show it when you arrive at The Kia Oval. If you don’t bring it, you may not be able to take part for security reasons.</p>
+
+    <p>Any questions? Please contact the <a href="mailto:hoddatcommunications@homeoffice.gsi.gov.uk">DDaT Communications team</a> and we will get back to you asap.</p> 
 
      </div><!--wrapper--> 
 
   </div><!-- end info-->
 
- <h3><i class="fa fa-bolt fa-lg" aria-hidden="true"></i> <span class="two-lines">Lightning Talks – the floor is yours <div class="font-change">@</div> DD<div class="caps-change">a</div>T Together</span></h3>
+ <h3><i class="fa fa-bolt fa-lg" aria-hidden="true"></i> <span class="two-lines">DD<div class="caps-change">a</div>T Reimagine Challenge</span></h3>
   <div>
 
 <div class="wrapper">
-    <p>The ever-popular lightning talks will be back and we want to hear from you with your suggested topic. This should preferably align with the overall focus of the day.</p>
- 
- <p>The floor will be yours - be brave and share your thoughts. Presenting in front of 350 of your colleagues is a great development opportunity! You can talk with or without slides, you can speak as an individual or on behalf of a team, and you can present solo or as a group – just remember to cover your topic in three minutes!</p>
-    
-    <p>Please contact <a href="mailto:ann.blundy@homeoffice.gsi.gov.uk">Ann Blundy</a> if you would like to take part or discuss your ideas further.</p>
+    <h3>Don’t let your great ideas go unnoticed</h3>
+
+    <p>The DDaT <a href="http://www.civilservicelive.com/reimagine-challenge">Reimagine Challenge</a> is offering DDaT civil servants (individually or in a team) the opportunity to bid for up to £10,000 or up to 10 working days (or a mix of the two) to take forward an idea to improve DDaT. It should offer great value for money, enhance or simplify an existing process, offer a significant cost saving, or do a mix of all three!</p>
+
+    <p>Submissions need to be submitted by 12noon Monday 12 February and should outline:</p>
+<ul>
+    <li>what the idea is</li>
+    <li>the business benefit (including who will benefit)</li>
+    <li>how you would invest the prize to test the idea (including what the output of that work would be); and</li>
+    <li>who you would need help from to take the idea forward.</li>
+</ul>
+
+<p>Successful ideas will be presented at the event with the winning idea decided by public vote on the day. To register your interest, or find out more about presenting your idea, contact the <a href="mailto:hoddatcommunications@homeoffice.gsi.gov.uk">communications team</a>.</p>
  
     </div><!--wrapper--> 
   </div><!-- end info-->
@@ -246,9 +227,9 @@
 <div class="wrapper">
    <p>We want to hear your views.</p>
  
-    <p>During the event, we are using Sli.do again. The Sli.do code is #E061.</p> 
+    <p>During the event, we are using Sli.do again.</p> 
     
-    <p>If you are unable to attend the event or wish to pose a question anonymously before the day you can raise it <a href="https://www.homeofficesurveys.homeoffice.gov.uk/s/DDaTquestions/">here</a>. Please ensure all questions are posed by 5pm on 2 October as the responses will not be monitored on the day.</p>
+    <p>If you are unable to attend the event or wish to pose a question anonymously before the day you can raise it <a href="https://www.homeofficesurveys.homeoffice.gov.uk/s/DDaTquestions/">here</a>. Please ensure all questions are posed by 5pm on 19 February as the responses will not be monitored on the day.</p>
     
     <p>Please contact the <a href="mailto:hoddatcommunications@homeoffice.gsi.gov.uk">DDaT communications team</a> if there is a topic or issue you would like to be explored at DDAT Together.</p>
 
@@ -267,21 +248,21 @@
       
 <p>Lunch is included in the conference package and will also be served in the Ashes Suite. The Oval will provide sandwiches and seasonal salads which will include vegetarian and vegan options.</p>
     
-<p>Please note: Any dishes known to contain nuts will be identified; however all their dishes may contain nut traces. If you have specific dietary requirements you are welcome to bring your own lunch on the day if you’d prefer.</p>
+<p>Please note: Any dishes known to contain nuts will be identified; however all their dishes may contain nut traces. If you have specific dietary requirements you are welcome to make your own arrangements for lunch on the day if you’d prefer.</p>
     
 <h3>Wifi details</h3>
-<p>You can log onto the wifi whilst in the Oval using the details below:<br>
+<!--<p>You can log onto the wifi whilst in the Oval using the details below:<br>
 Network: SCCC<br>
-    Password: Hobbs598</p>
+    Password: Hobbs598</p>-->
     
 <h3>Prayer room</h3>
 <p>To be confirmed on the day.</p>
  
 <h3>Floor plan</h3>
-     <a href="/img/floor_plan.png" class="swipebox" title="Floor plan of the Kia Oval">
+    <!-- <a href="/img/floor_plan.png" class="swipebox" title="Floor plan of the Kia Oval">
       <img class="map" src="/img/floor_plan.png" alt="Floor plan of the Kia Oval"/>
         <p class="center"> (click to enlarge)</p>
-    </a>
+    </a>--> 
     
     
      </div><!--wrapper--> 
