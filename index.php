@@ -62,10 +62,9 @@
 <div class="agenda-time">
     <span class="time">14.35 - 16.00</span>
     <span>Afternoon breakouts (bookable on a first come, first served basis)</span>
-    <span><strong>Breakout A:</strong> Panel discussion - ‘Driving inclusion and innovation in the workplace’ chaired by Lou Horton, DDaT Business Planning and Management.</span>
-    <span>Q&amp;A (followed by refreshments and post-panel networking with panel member and SMT members)</span>
-    <span><strong>Breakout B:</strong> DDaT developments and demos tbc</span>
-    <span><strong>Breakout C:</strong> SCS spot mentoring slots - 20 min slots facilitated by SCS members</span>
+    <span><strong>Breakout A:</strong> ‘Driving inclusion and innovation in the workplace’ panel discussion (external speakers tbc) followed by Q&amp;A session and networking</span>
+<span><strong>Breakout B:</strong> DDaT developments and demos including Home Office Biometrics and Home Office Data Analytics Competency Centre (DACC)</span>
+<span><strong>Breakout C:</strong> Spot mentoring session with a member of the DDaT SCS for work/career advice eg personal development, raising your profile (20 minute session and join Breakout A or B for the remaining time)</span>
 </div>
     
  <div class="agenda-time">
