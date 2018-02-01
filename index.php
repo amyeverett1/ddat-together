@@ -119,13 +119,12 @@
    
    <div class="wrapper">    
     <div class="box white">      
-        <p>Booking coming soon.</p>
         
-        <!--<p>Please click the button below to open the ticket booking window. Alternatively click <a href="https://www.eventbrite.co.uk/e/ddat-together-away-day-tickets-42558488585">here</a> to visit Eventbrite directly. </p>
+        <p>Please click the button below to open the ticket booking window. Alternatively click <a href="https://www.eventbrite.co.uk/e/ddat-together-away-day-tickets-42558488585">here</a> to visit Eventbrite directly. </p>
       <!-- Noscript content for added SEO -->
-<!-- <noscript><a href="https://www.eventbrite.co.uk/e/ddat-together-away-day-tickets-42558488585" rel="noopener noreferrer" target="_blank"></noscript>
+ <noscript><a href="https://www.eventbrite.co.uk/e/ddat-together-away-day-tickets-42558488585" rel="noopener noreferrer" target="_blank"></noscript>
 <!-- You can customize this button any way you like -->
-<!-- <button id="eventbrite-widget-modal-trigger-42558488585" class="big-space" type="button">Buy Tickets</button>
+<button id="eventbrite-widget-modal-trigger-42558488585" class="big-space" type="button">Buy Tickets</button>
 <noscript></a>Buy Tickets on Eventbrite</noscript>
 
 <script src="https://www.eventbrite.co.uk/static/widgets/eb_widgets.js"></script>
@@ -143,7 +142,7 @@
         onOrderComplete: exampleCallback
     });
 </script>
-        --> 
+       
                     </div><!--boxwhite--> 
 </div><!--wrapper--> 
       
