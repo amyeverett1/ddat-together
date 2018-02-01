@@ -56,7 +56,6 @@
 <div class="agenda-time">
     <span class="time">13.40 – 14.30</span>
     <span>DDaT Reimagine Challenge - DDaT civil servants (individually or in a team) have the opportunity to bid for up to £10,000 or up to 10 working days (or a mix of the two) to take forward an idea to improve DDaT processes or culture and present their idea at DDaT Together.</span>
-    <span><a href="http://www.civilservicelive.com/reimagine-challenge">http://www.civilservicelive.com/reimagine-challenge</a></span>
 </div>
             
 <div class="agenda-time">
