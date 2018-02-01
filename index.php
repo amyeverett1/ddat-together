@@ -3,7 +3,7 @@
 </header>
 
 <div class="date">
-    <span>Tuesday 20 February 2018 <br> The Kia Oval, Kennington, London SE11 5SS and WebEx </span>
+    <span>Tuesday 20 February 2018 <br> The Kia Oval, Kennington, London SE11 5SS and Live Streaming </span>
 </div>
 
 <div class="container index"> 
@@ -17,7 +17,7 @@
     
 <div class="box white agenda">
  
-<h3>DDAT Together – We Innovate, We Evolve, We Thrive: Tuesday 20 February @ Kia Oval Kennington and via WebEx</h3>
+<h3>DDAT Together – We Innovate, We Evolve, We Thrive: Tuesday 20 February @ Kia Oval Kennington and via live streaming</h3>
 
 <div class="agenda-time">
     <span class="time">09.30 – 10.30</span>
@@ -208,7 +208,7 @@
 <div class="wrapper">
     <p>Joanna Davinson, Chief Digital, Data and Technology (DDaT) Officer, will host her first DDaT Together event at the Kia Oval on Tuesday 20 February at the Kia Oval.  Joanna will reflect on her first three months as CDDaTO and outline the vision and future plans for DDaT.  We are also fortunate to have The Rt Hon Matt Hancock MP, Secretary of State for Digital, Culture, Media and Sport, joining us in the morning as our keynote speaker as well as Philip Rutnam, Permanent Secretary at the Home Office, opening our afternoon session.</p>
 
-    <p>This event is open to everyone in DDaT but space is limited so places will be allocated on a first-come-first-served basis. You must register via this app to secure your place to attend the event.  For those who cannot join in person, DDaT Infrastructure &amp; Platforms will be running another WebEx pilot on the day. Please email the DDaT Communications team for further information.</p>
+    <p>This event is open to everyone in DDaT but space is limited so places will be allocated on a first-come-first-served basis. You must register via this app to secure your place to attend the event.  For those who cannot join in person, DDaT Infrastructure &amp; Platforms will be running another live streaming pilot on the day. Please email the DDaT Communications team for further information.</p>
 
     <p>Don’t forget to bring your Home Office pass. We don’t want you to wear it but you must show it when you arrive at The Kia Oval. If you don’t bring it, you may not be able to take part for security reasons.</p>
 
