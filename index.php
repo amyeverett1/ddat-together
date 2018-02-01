@@ -121,6 +121,23 @@
     <div class="box white">      
         
         <p>Please click the button below to open the ticket booking window. Alternatively click <a href="https://www.eventbrite.co.uk/e/ddat-together-away-day-tickets-42558488585">here</a> to visit Eventbrite directly. </p>
+        
+        <p>Tickets cover the entirety of the day plus one breakout session. We ask attendees to choose which breakout session they would like to attend:</p>
+
+<P><strong>Breakout A</strong> - ‘Driving inclusion and innovation in the workplace’ panel discussion (external speakers tbc) followed by Q&amp;A session and networking</P>
+
+        <p><strong>Breakout B</strong>strong> - DDaT developments and demos (3 x 20 minute sessions)</p>
+<ul>
+    <li>Common Products</li>
+  <li>Data Products</li>
+  <li>Emergency Services Mobile Communications Programme</li>
+</ul>
+    
+    <p><strong>Breakout C</strong>strong> – Spot mentoring session with a member of the DDaT SCS – tbc (20 minute session and join Breakout A or B for the remaining time)</p>
+
+    <p><strong>Live Streaming</strong>strong> - We will be live streaming the day for those who cannot attend in person. This will include Breakout Session A.</p>
+        
+        
       <!-- Noscript content for added SEO -->
  <noscript><a href="https://www.eventbrite.co.uk/e/ddat-together-away-day-tickets-42558488585" rel="noopener noreferrer" target="_blank"></noscript>
 <!-- You can customize this button any way you like -->
