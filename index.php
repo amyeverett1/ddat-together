@@ -135,7 +135,7 @@
     
     <p><strong>Breakout C</strong> – Spot mentoring session with a member of the DDaT SCS – tbc (20 minute session and join Breakout A or B for the remaining time)</p>
 
-    <p><strong>Live Streaming</strong>strong> - We will be live streaming the day for those who cannot attend in person. This will include Breakout Session A.</p>
+    <p><strong>Live Streaming</strong> - We will be live streaming the day for those who cannot attend in person. This will include Breakout Session A.</p>
         
         
       <!-- Noscript content for added SEO -->
