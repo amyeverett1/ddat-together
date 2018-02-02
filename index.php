@@ -55,7 +55,7 @@
            
 <div class="agenda-time">
     <span class="time">13.40 – 14.30</span>
-    <span>DDaT Reimagine Challenge - DDaT civil servants (individually or in a team) have the opportunity to bid for up to £10,000 or up to 10 working days (or a mix of the two) to take forward an idea to improve DDaT processes or culture and present their idea at DDaT Together.</span>
+    <span>The DDaT Reimagine Challenge is offering DDaT civil servants (individually or in a team) the opportunity to bid for up to £10,000 or up to 10 working days (or a mix of the two) to take forward an idea to simplify and offer better vfm in how we deliver digital, data and technology services in the Home Office. It should enhance or simplify an existing process, offer great value for money or significant cost savings, or do a mix of all three!</span>
 </div>
             
 <div class="agenda-time">
@@ -223,7 +223,7 @@
 <div class="wrapper">
     <h3>Don’t let your great ideas go unnoticed</h3>
 
-    <p>The DDaT <a href="http://www.civilservicelive.com/reimagine-challenge">Reimagine Challenge</a> is offering DDaT civil servants (individually or in a team) the opportunity to bid for up to £10,000 or up to 10 working days (or a mix of the two) to take forward an idea to improve DDaT. It should offer great value for money, enhance or simplify an existing process, offer a significant cost saving, or do a mix of all three!</p>
+    <p>The DDaT <a href="http://www.civilservicelive.com/reimagine-challenge">Reimagine Challenge</a> is offering DDaT civil servants (individually or in a team) the opportunity to bid for up to £10,000 or up to 10 working days (or a mix of the two) to take forward an idea to simplify and offer better vfm in how we deliver digital, data and technology services in the Home Office. It should enhance or simplify an existing process, offer great value for money or significant cost savings, or do a mix of all three!</p>
 
     <p>Submissions need to be submitted by 12noon Monday 12 February and should outline:</p>
 <ul>
