@@ -126,7 +126,7 @@ ul.sans {
 }
 
 .space-space {
-    margin-bottom: 1.5em;
+    margin-bottom: 1.5em!important;
 }
 
 b, strong {
