@@ -63,7 +63,7 @@
     <span>Afternoon breakouts (bookable on a first come, first served basis)</span>
     <span><strong>Breakout A:</strong> ‘Driving inclusion and innovation in the workplace’ panel discussion followed by Q&amp;A session and networking</span>
 <div class="indent">
-    <p><strong class="space-space">Panel chair:</strong> Lou Horton, TUPE Lead, Business Planning &amp; Management, DDaT</p>
+    <p class="space-space"><strong>Panel chair:</strong> Lou Horton, TUPE Lead, Business Planning &amp; Management, DDaT</p>
 
     <p><strong>Dionne Condor-Farrell, Senior Developer at Transport for London</strong></p>
     <p class="space-space">Dionne has worked at TfL for 10 years as a Senior Developer (Java and open source technologies). She has experience of developing a variety of bespoke Java web applications for TfL, for example, in her current role she develops Java API services for the Oyster Mobile project.  Dionne is passionate about improving diversity in tech. She is a member of the TfL Women in Tech Committee, is a tech coach and mentor, and is a founding member of UK Black Tech. Dionne was a WeAreTechWomen TechWomen50 award winner in 2017. </p>
